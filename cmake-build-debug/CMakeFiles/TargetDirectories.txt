@@ -1,0 +1,6 @@
+C:/Users/lover/Desktop/codigoBaseV6.0/cmake-build-debug/CMakeFiles/Ej1.dir
+C:/Users/lover/Desktop/codigoBaseV6.0/cmake-build-debug/CMakeFiles/Ej2.dir
+C:/Users/lover/Desktop/codigoBaseV6.0/cmake-build-debug/CMakeFiles/medicionEficiencia.dir
+C:/Users/lover/Desktop/codigoBaseV6.0/cmake-build-debug/CMakeFiles/lecturaCSV.dir
+C:/Users/lover/Desktop/codigoBaseV6.0/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lover/Desktop/codigoBaseV6.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir

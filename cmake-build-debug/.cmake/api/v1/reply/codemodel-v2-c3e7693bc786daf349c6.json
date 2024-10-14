@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.17"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Plantilla_A1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Ej1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ej1-Debug-da12bb652f373e5e6d79.json",
+					"name" : "Ej1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ej2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ej2-Debug-b773898a1b924cde650c.json",
+					"name" : "Ej2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lecturaCSV::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lecturaCSV-Debug-bb59bccc31f2c66ca53e.json",
+					"name" : "lecturaCSV",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "medicionEficiencia::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-medicionEficiencia-Debug-fe48e9a3875559887ace.json",
+					"name" : "medicionEficiencia",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/lover/Desktop/codigoBaseV6.0/cmake-build-debug",
+		"source" : "C:/Users/lover/Desktop/codigoBaseV6.0"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
